@@ -4,6 +4,8 @@ import lincks.maximilian.util.RandomUtil;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 
+import static lincks.maximilian.App.SPEED;
+
 @RequiredArgsConstructor
 public class CleaningStreet {
   private final int id;
@@ -14,7 +16,7 @@ public class CleaningStreet {
     long duration = RandomUtil.fromInterval(5, 12);
     System.out.printf(
         "Car %s is using CleaningStreet %s for %s minutes%n", car.getId(), id, duration);
-    Thread.sleep(duration * 1000);
+    Thread.sleep(duration * SPEED);
     isFree = true;
     notify();
   }

@@ -1,0 +1,515 @@
+Run hour 1
+Start slot
+Car 2 wants to use cleaning street
+Car 3 wants to use cleaning street
+Car 1 wants to use cleaning street
+Car 2 is using CleaningStreet 1 for 10 minutes
+Start slot
+Car 4 wants to use cleaning street
+Car 6 wants to use cleaning street
+Car 5 wants to use cleaning street
+Car 4 is using CleaningStreet 2 for 7 minutes
+Car 6 is using CleaningStreet 3 for 9 minutes
+Start slot
+Car 7 wants to use cleaning street
+Car 2 is leaving CleaningStreet 1
+Car 2 wants to use interior cleaning
+Car 3 is using CleaningStreet 1 for 7 minutes
+Car 2 is using InteriorCleaning 1 for 15 minutes
+Car 4 is leaving CleaningStreet 2
+Car 4 wants to use interior cleaning
+Car 5 is using CleaningStreet 2 for 10 minutes
+Car 4 is using InteriorCleaning 2 for 10 minutes
+Car 6 is leaving CleaningStreet 3
+Car 6 wants to use interior cleaning
+Start slot
+Car 8 wants to use cleaning street
+Car 9 wants to use cleaning street
+Car 10 wants to use cleaning street
+Car 8 is using CleaningStreet 3 for 10 minutes
+Car 3 is leaving CleaningStreet 1
+Car 1 is using CleaningStreet 1 for 7 minutes
+Start slot
+Car 5 is leaving CleaningStreet 2
+Car 11 wants to use cleaning street
+Car 4 is leaving InteriorCleaning 2
+Car 10 is using CleaningStreet 2 for 11 minutes
+Car 1 is leaving CleaningStreet 1
+Car 2 is leaving InteriorCleaning 1
+Car 7 is using CleaningStreet 1 for 8 minutes
+Car 6 is using InteriorCleaning 1 for 5 minutes
+Car 8 is leaving CleaningStreet 3
+Car 8 wants to use interior cleaning
+Car 9 is using CleaningStreet 3 for 12 minutes
+Car 8 is using InteriorCleaning 2 for 15 minutes
+Start slot
+Car 12 wants to use cleaning street
+Car 13 wants to use cleaning street
+Car 6 is leaving InteriorCleaning 1
+Car 10 is leaving CleaningStreet 2
+Car 10 wants to use interior cleaning
+Car 10 is using InteriorCleaning 1 for 10 minutes
+Start slot
+Car 7 is leaving CleaningStreet 1
+Car 14 wants to use cleaning street
+Car 11 is using CleaningStreet 1 for 11 minutes
+Car 14 is using CleaningStreet 2 for 6 minutes
+Car 9 is leaving CleaningStreet 3
+Start slot
+Car 14 is leaving CleaningStreet 2
+Car 14 wants to use interior cleaning
+Car 15 wants to use cleaning street
+Car 16 wants to use cleaning street
+Car 16 is using CleaningStreet 3 for 5 minutes
+Car 15 is using CleaningStreet 2 for 6 minutes
+Car 8 is leaving InteriorCleaning 2
+Car 14 is using InteriorCleaning 2 for 5 minutes
+Car 10 is leaving InteriorCleaning 1
+Start slot
+Car 11 is leaving CleaningStreet 1
+Car 16 is leaving CleaningStreet 3
+Car 16 wants to use interior cleaning
+Car 15 is leaving CleaningStreet 2
+Car 17 wants to use cleaning street
+Car 17 is using CleaningStreet 2 for 9 minutes
+Car 18 wants to use cleaning street
+Car 19 wants to use cleaning street
+Car 12 is using CleaningStreet 1 for 6 minutes
+Car 16 is using InteriorCleaning 1 for 15 minutes
+Car 18 is using CleaningStreet 3 for 7 minutes
+Car 14 is leaving InteriorCleaning 2
+Start slot
+Car 20 wants to use cleaning street
+Car 22 wants to use cleaning street
+Car 21 wants to use cleaning street
+Car 12 is leaving CleaningStreet 1
+Car 12 wants to use interior cleaning
+Car 18 is leaving CleaningStreet 3
+Car 13 is using CleaningStreet 1 for 8 minutes
+Car 19 is using CleaningStreet 3 for 12 minutes
+Car 12 is using InteriorCleaning 2 for 10 minutes
+Car 18 wants to use interior cleaning
+Car 17 is leaving CleaningStreet 2
+Car 20 is using CleaningStreet 2 for 6 minutes
+Start slot
+Car 23 wants to use cleaning street
+Car 25 wants to use cleaning street
+Car 24 wants to use cleaning street
+Car 16 is leaving InteriorCleaning 1
+Car 18 is using InteriorCleaning 1 for 15 minutes
+Car 20 is leaving CleaningStreet 2
+Car 20 wants to use interior cleaning
+Car 22 is using CleaningStreet 2 for 11 minutes
+Car 13 is leaving CleaningStreet 1
+Car 23 is using CleaningStreet 1 for 10 minutes
+Start slot
+Car 12 is leaving InteriorCleaning 2
+Car 26 wants to use cleaning street
+Car 27 wants to use cleaning street
+Car 20 is using InteriorCleaning 2 for 15 minutes
+Car 19 is leaving CleaningStreet 3
+Car 21 is using CleaningStreet 3 for 11 minutes
+Run hour 2
+Start slot
+Car 28 wants to use cleaning street
+Car 29 wants to use cleaning street
+Car 30 wants to use cleaning street
+Car 31 wants to use cleaning street
+Car 32 wants to use cleaning street
+Car 22 is leaving CleaningStreet 2
+Car 22 wants to use interior cleaning
+Car 25 is using CleaningStreet 2 for 7 minutes
+Car 23 is leaving CleaningStreet 1
+Car 32 is using CleaningStreet 1 for 12 minutes
+Start slot
+Car 18 is leaving InteriorCleaning 1
+Car 33 wants to use cleaning street
+Car 22 is using InteriorCleaning 1 for 10 minutes
+Car 21 is leaving CleaningStreet 3
+Car 28 is using CleaningStreet 3 for 10 minutes
+Car 25 is leaving CleaningStreet 2
+Car 20 is leaving InteriorCleaning 2
+Car 24 is using CleaningStreet 2 for 10 minutes
+Start slot
+Car 36 wants to use cleaning street
+Car 35 wants to use cleaning street
+Car 34 wants to use cleaning street
+Car 32 is leaving CleaningStreet 1
+Car 36 is using CleaningStreet 1 for 5 minutes
+Car 22 is leaving InteriorCleaning 1
+Start slot
+Car 28 is leaving CleaningStreet 3
+Car 30 is using CleaningStreet 3 for 6 minutes
+Car 37 wants to use cleaning street
+Car 24 is leaving CleaningStreet 2
+Car 24 wants to use interior cleaning
+Car 24 is using InteriorCleaning 1 for 5 minutes
+Car 26 is using CleaningStreet 2 for 6 minutes
+Car 36 is leaving CleaningStreet 1
+Car 36 wants to use interior cleaning
+Car 34 is using CleaningStreet 1 for 11 minutes
+Car 36 is using InteriorCleaning 2 for 5 minutes
+Start slot
+Car 30 is leaving CleaningStreet 3
+Car 30 wants to use interior cleaning
+Car 38 wants to use cleaning street
+Car 40 wants to use cleaning street
+Car 39 wants to use cleaning street
+Car 41 wants to use cleaning street
+Car 31 is using CleaningStreet 3 for 9 minutes
+Car 24 is leaving InteriorCleaning 1
+Car 26 is leaving CleaningStreet 2
+Car 26 wants to use interior cleaning
+Car 27 is using CleaningStreet 2 for 8 minutes
+Car 26 is using InteriorCleaning 1 for 5 minutes
+Car 36 is leaving InteriorCleaning 2
+Car 30 is using InteriorCleaning 2 for 5 minutes
+Start slot
+Car 43 wants to use cleaning street
+Car 42 wants to use cleaning street
+Car 26 is leaving InteriorCleaning 1
+Car 34 is leaving CleaningStreet 1
+Car 37 is using CleaningStreet 1 for 10 minutes
+Car 30 is leaving InteriorCleaning 2
+Car 31 is leaving CleaningStreet 3
+Car 33 is using CleaningStreet 3 for 7 minutes
+Car 27 is leaving CleaningStreet 2
+Car 29 is using CleaningStreet 2 for 10 minutes
+Start slot
+Car 44 wants to use cleaning street
+Car 33 is leaving CleaningStreet 3
+Car 33 wants to use interior cleaning
+Car 40 is using CleaningStreet 3 for 8 minutes
+Car 33 is using InteriorCleaning 1 for 10 minutes
+Start slot
+Car 37 is leaving CleaningStreet 1
+Car 46 wants to use cleaning street
+Car 47 wants to use cleaning street
+Car 49 wants to use cleaning street
+Car 45 wants to use cleaning street
+Car 48 wants to use cleaning street
+Car 39 is using CleaningStreet 1 for 5 minutes
+Car 29 is leaving CleaningStreet 2
+Car 35 is using CleaningStreet 2 for 5 minutes
+Start slot
+Car 39 is leaving CleaningStreet 1
+Car 39 wants to use interior cleaning
+Car 41 is using CleaningStreet 1 for 7 minutes
+Car 39 is using InteriorCleaning 2 for 5 minutes
+Car 50 wants to use cleaning street
+Car 40 is leaving CleaningStreet 3
+Car 43 is using CleaningStreet 3 for 11 minutes
+Car 35 is leaving CleaningStreet 2
+Car 33 is leaving InteriorCleaning 1
+Car 38 is using CleaningStreet 2 for 9 minutes
+Start slot
+Car 39 is leaving InteriorCleaning 2
+Car 52 wants to use cleaning street
+Car 51 wants to use cleaning street
+Car 41 is leaving CleaningStreet 1
+Car 49 is using CleaningStreet 1 for 9 minutes
+Start slot
+Car 43 is leaving CleaningStreet 3
+Car 38 is leaving CleaningStreet 2
+Car 53 wants to use cleaning street
+Car 54 wants to use cleaning street
+Car 42 is using CleaningStreet 3 for 6 minutes
+Car 46 is using CleaningStreet 2 for 9 minutes
+Car 49 is leaving CleaningStreet 1
+Car 50 is using CleaningStreet 1 for 10 minutes
+Start slot
+Car 42 is leaving CleaningStreet 3
+Car 42 wants to use interior cleaning
+Car 55 wants to use cleaning street
+Car 56 wants to use cleaning street
+Car 44 is using CleaningStreet 3 for 6 minutes
+Car 42 is using InteriorCleaning 1 for 10 minutes
+Car 46 is leaving CleaningStreet 2
+Car 47 is using CleaningStreet 2 for 5 minutes
+Run hour 3
+Start slot
+Car 44 is leaving CleaningStreet 3
+Car 57 wants to use cleaning street
+Car 52 is using CleaningStreet 3 for 9 minutes
+Car 47 is leaving CleaningStreet 2
+Car 50 is leaving CleaningStreet 1
+Car 45 is using CleaningStreet 2 for 11 minutes
+Car 56 is using CleaningStreet 1 for 5 minutes
+Car 42 is leaving InteriorCleaning 1
+Start slot
+Car 58 wants to use cleaning street
+Car 56 is leaving CleaningStreet 1
+Car 52 is leaving CleaningStreet 3
+Car 57 is using CleaningStreet 1 for 6 minutes
+Car 53 is using CleaningStreet 3 for 12 minutes
+Start slot
+Car 59 wants to use cleaning street
+Car 60 wants to use cleaning street
+Car 45 is leaving CleaningStreet 2
+Car 45 wants to use interior cleaning
+Car 57 is leaving CleaningStreet 1
+Car 57 wants to use interior cleaning
+Car 57 is using InteriorCleaning 2 for 5 minutes
+Car 48 is using CleaningStreet 2 for 9 minutes
+Car 45 is using InteriorCleaning 1 for 5 minutes
+Car 58 is using CleaningStreet 1 for 12 minutes
+Start slot
+Car 62 wants to use cleaning street
+Car 61 wants to use cleaning street
+Car 57 is leaving InteriorCleaning 2
+Car 45 is leaving InteriorCleaning 1
+Car 53 is leaving CleaningStreet 3
+Car 61 is using CleaningStreet 3 for 12 minutes
+Car 48 is leaving CleaningStreet 2
+Car 48 wants to use interior cleaning
+Car 51 is using CleaningStreet 2 for 8 minutes
+Start slot
+Car 48 is using InteriorCleaning 1 for 10 minutes
+Car 64 wants to use cleaning street
+Car 63 wants to use cleaning street
+Car 58 is leaving CleaningStreet 1
+Car 58 wants to use interior cleaning
+Car 59 is using CleaningStreet 1 for 12 minutes
+Car 58 is using InteriorCleaning 2 for 10 minutes
+Start slot
+Car 66 wants to use cleaning street
+Car 65 wants to use cleaning street
+Car 51 is leaving CleaningStreet 2
+Car 51 wants to use interior cleaning
+Car 54 is using CleaningStreet 2 for 8 minutes
+Car 61 is leaving CleaningStreet 3
+Car 61 wants to use interior cleaning
+Car 64 is using CleaningStreet 3 for 12 minutes
+Car 48 is leaving InteriorCleaning 1
+Start slot
+Car 67 wants to use cleaning street
+Car 58 is leaving InteriorCleaning 2
+Car 51 is using InteriorCleaning 2 for 15 minutes
+Car 59 is leaving CleaningStreet 1
+Car 59 wants to use interior cleaning
+Car 60 is using CleaningStreet 1 for 12 minutes
+Car 59 is using InteriorCleaning 1 for 5 minutes
+Start slot
+Car 54 is leaving CleaningStreet 2
+Car 54 wants to use interior cleaning
+Car 55 is using CleaningStreet 2 for 6 minutes
+Car 68 wants to use cleaning street
+Car 59 is leaving InteriorCleaning 1
+Car 64 is leaving CleaningStreet 3
+Car 64 wants to use interior cleaning
+Car 65 is using CleaningStreet 3 for 11 minutes
+Car 54 is using InteriorCleaning 1 for 10 minutes
+Start slot
+Car 55 is leaving CleaningStreet 2
+Car 70 wants to use cleaning street
+Car 69 wants to use cleaning street
+Car 62 is using CleaningStreet 2 for 12 minutes
+Car 60 is leaving CleaningStreet 1
+Car 60 wants to use interior cleaning
+Car 66 is using CleaningStreet 1 for 9 minutes
+Car 51 is leaving InteriorCleaning 2
+Car 61 is using InteriorCleaning 2 for 5 minutes
+Start slot
+Car 72 wants to use cleaning street
+Car 71 wants to use cleaning street
+Car 54 is leaving InteriorCleaning 1
+Car 60 is using InteriorCleaning 1 for 10 minutes
+Car 65 is leaving CleaningStreet 3
+Car 65 wants to use interior cleaning
+Car 67 is using CleaningStreet 3 for 5 minutes
+Car 61 is leaving InteriorCleaning 2
+Car 64 is using InteriorCleaning 2 for 10 minutes
+Start slot
+Car 66 is leaving CleaningStreet 1
+Car 66 wants to use interior cleaning
+Car 73 wants to use cleaning street
+Car 62 is leaving CleaningStreet 2
+Car 62 wants to use interior cleaning
+Car 74 wants to use cleaning street
+Car 70 is using CleaningStreet 1 for 7 minutes
+Car 63 is using CleaningStreet 2 for 6 minutes
+Car 67 is leaving CleaningStreet 3
+Car 67 wants to use interior cleaning
+Car 68 is using CleaningStreet 3 for 10 minutes
+Start slot
+Car 60 is leaving InteriorCleaning 1
+Car 63 is leaving CleaningStreet 2
+Car 65 is using InteriorCleaning 1 for 10 minutes
+Car 75 wants to use cleaning street
+Car 76 wants to use cleaning street
+Car 63 wants to use interior cleaning
+Car 71 is using CleaningStreet 2 for 12 minutes
+Car 70 is leaving CleaningStreet 1
+Car 70 wants to use interior cleaning
+Car 74 is using CleaningStreet 1 for 9 minutes
+Car 64 is leaving InteriorCleaning 2
+Car 62 is using InteriorCleaning 2 for 5 minutes
+Run hour 4
+Start slot
+Car 77 wants to use cleaning street
+Car 68 is leaving CleaningStreet 3
+Car 68 wants to use interior cleaning
+Car 69 is using CleaningStreet 3 for 8 minutes
+Car 62 is leaving InteriorCleaning 2
+Car 67 is using InteriorCleaning 2 for 10 minutes
+Car 65 is leaving InteriorCleaning 1
+Car 74 is leaving CleaningStreet 1
+Car 66 is using InteriorCleaning 1 for 5 minutes
+Car 74 wants to use interior cleaning
+Car 75 is using CleaningStreet 1 for 5 minutes
+Start slot
+Car 71 is leaving CleaningStreet 2
+Car 71 wants to use interior cleaning
+Car 78 wants to use cleaning street
+Car 73 is using CleaningStreet 2 for 5 minutes
+Car 69 is leaving CleaningStreet 3
+Car 69 wants to use interior cleaning
+Car 66 is leaving InteriorCleaning 1
+Car 75 is leaving CleaningStreet 1
+Car 70 is using InteriorCleaning 1 for 5 minutes
+Car 72 is using CleaningStreet 3 for 6 minutes
+Car 75 wants to use interior cleaning
+Car 76 is using CleaningStreet 1 for 6 minutes
+Start slot
+Car 73 is leaving CleaningStreet 2
+Car 80 wants to use cleaning street
+Car 79 wants to use cleaning street
+Car 73 wants to use interior cleaning
+Car 77 is using CleaningStreet 2 for 12 minutes
+Car 67 is leaving InteriorCleaning 2
+Car 63 is using InteriorCleaning 2 for 15 minutes
+Car 70 is leaving InteriorCleaning 1
+Car 76 is leaving CleaningStreet 1
+Car 76 wants to use interior cleaning
+Car 72 is leaving CleaningStreet 3
+Car 72 wants to use interior cleaning
+Car 71 is using InteriorCleaning 1 for 5 minutes
+Car 80 is using CleaningStreet 1 for 6 minutes
+Start slot
+Car 81 wants to use cleaning street
+Car 82 wants to use cleaning street
+Car 81 is using CleaningStreet 3 for 11 minutes
+Car 71 is leaving InteriorCleaning 1
+Car 80 is leaving CleaningStreet 1
+Car 69 is using InteriorCleaning 1 for 5 minutes
+Car 80 wants to use interior cleaning
+Car 79 is using CleaningStreet 1 for 12 minutes
+Start slot
+Car 77 is leaving CleaningStreet 2
+Car 77 wants to use interior cleaning
+Car 83 wants to use cleaning street
+Car 78 is using CleaningStreet 2 for 9 minutes
+Car 84 wants to use cleaning street
+Car 69 is leaving InteriorCleaning 1
+Car 63 is leaving InteriorCleaning 2
+Car 75 is using InteriorCleaning 1 for 10 minutes
+Car 81 is leaving CleaningStreet 3
+Car 81 wants to use interior cleaning
+Car 68 is using InteriorCleaning 2 for 10 minutes
+Car 82 is using CleaningStreet 3 for 7 minutes
+Start slot
+Car 86 wants to use cleaning street
+Car 85 wants to use cleaning street
+Car 78 is leaving CleaningStreet 2
+Car 78 wants to use interior cleaning
+Car 86 is using CleaningStreet 2 for 6 minutes
+Car 79 is leaving CleaningStreet 1
+Car 79 wants to use interior cleaning
+Car 83 is using CleaningStreet 1 for 11 minutes
+Start slot
+Car 82 is leaving CleaningStreet 3
+Car 82 wants to use interior cleaning
+Car 87 wants to use cleaning street
+Car 85 is using CleaningStreet 3 for 11 minutes
+Car 75 is leaving InteriorCleaning 1
+Car 68 is leaving InteriorCleaning 2
+Car 86 is leaving CleaningStreet 2
+Car 86 wants to use interior cleaning
+Car 76 is using InteriorCleaning 1 for 5 minutes
+Car 74 is using InteriorCleaning 2 for 10 minutes
+Car 87 is using CleaningStreet 2 for 11 minutes
+Start slot
+Car 88 wants to use cleaning street
+Car 76 is leaving InteriorCleaning 1
+Car 83 is leaving CleaningStreet 1
+Car 77 is using InteriorCleaning 1 for 10 minutes
+Car 83 wants to use interior cleaning
+Car 84 is using CleaningStreet 1 for 7 minutes
+Start slot
+Car 85 is leaving CleaningStreet 3
+Car 85 wants to use interior cleaning
+Car 89 wants to use cleaning street
+Car 89 is using CleaningStreet 3 for 8 minutes
+Car 74 is leaving InteriorCleaning 2
+Car 73 is using InteriorCleaning 2 for 15 minutes
+Car 87 is leaving CleaningStreet 2
+Car 87 wants to use interior cleaning
+Car 88 is using CleaningStreet 2 for 8 minutes
+Car 84 is leaving CleaningStreet 1
+Car 84 wants to use interior cleaning
+Start slot
+Car 90 wants to use cleaning street
+Car 91 wants to use cleaning street
+Car 90 is using CleaningStreet 1 for 11 minutes
+Car 77 is leaving InteriorCleaning 1
+Car 81 is using InteriorCleaning 1 for 10 minutes
+Car 89 is leaving CleaningStreet 3
+Car 89 wants to use interior cleaning
+Car 91 is using CleaningStreet 3 for 5 minutes
+Start slot
+Car 88 is leaving CleaningStreet 2
+Car 92 wants to use cleaning street
+Car 88 wants to use interior cleaning
+Car 92 is using CleaningStreet 2 for 8 minutes
+Car 91 is leaving CleaningStreet 3
+Car 91 wants to use interior cleaning
+Car 73 is leaving InteriorCleaning 2
+Car 90 is leaving CleaningStreet 1
+Car 90 wants to use interior cleaning
+Car 72 is using InteriorCleaning 2 for 10 minutes
+Start slot
+Car 81 is leaving InteriorCleaning 1
+Car 78 is using InteriorCleaning 1 for 15 minutes
+Car 93 wants to use cleaning street
+Car 94 wants to use cleaning street
+Car 94 is using CleaningStreet 3 for 9 minutes
+Car 93 is using CleaningStreet 1 for 7 minutes
+Car 92 is leaving CleaningStreet 2
+Car 92 wants to use interior cleaning
+Car 93 is leaving CleaningStreet 1
+Car 93 wants to use interior cleaning
+Car 72 is leaving InteriorCleaning 2
+Car 94 is leaving CleaningStreet 3
+Car 94 wants to use interior cleaning
+Car 80 is using InteriorCleaning 2 for 5 minutes
+Car 80 is leaving InteriorCleaning 2
+Car 78 is leaving InteriorCleaning 1
+Car 79 is using InteriorCleaning 2 for 15 minutes
+Car 82 is using InteriorCleaning 1 for 5 minutes
+Car 82 is leaving InteriorCleaning 1
+Car 85 is using InteriorCleaning 1 for 5 minutes
+Car 85 is leaving InteriorCleaning 1
+Car 87 is using InteriorCleaning 1 for 5 minutes
+Car 79 is leaving InteriorCleaning 2
+Car 86 is using InteriorCleaning 2 for 10 minutes
+Car 87 is leaving InteriorCleaning 1
+Car 88 is using InteriorCleaning 1 for 15 minutes
+Car 86 is leaving InteriorCleaning 2
+Car 83 is using InteriorCleaning 2 for 15 minutes
+Car 88 is leaving InteriorCleaning 1
+Car 92 is using InteriorCleaning 1 for 5 minutes
+Car 92 is leaving InteriorCleaning 1
+Car 93 is using InteriorCleaning 1 for 5 minutes
+Car 83 is leaving InteriorCleaning 2
+Car 84 is using InteriorCleaning 2 for 5 minutes
+Car 93 is leaving InteriorCleaning 1
+Car 84 is leaving InteriorCleaning 2
+Car 89 is using InteriorCleaning 2 for 5 minutes
+Car 89 is leaving InteriorCleaning 2
+Car 91 is using InteriorCleaning 2 for 15 minutes
+Car 91 is leaving InteriorCleaning 2
+Car 90 is using InteriorCleaning 2 for 5 minutes
+Car 90 is leaving InteriorCleaning 2
+Car 94 is using InteriorCleaning 2 for 10 minutes
+Car 94 is leaving InteriorCleaning 2
+true
