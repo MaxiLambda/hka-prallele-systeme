@@ -5,6 +5,8 @@ import java.util.List;
 import java.util.stream.IntStream;
 import lincks.maximilian.util.RandomUtil;
 
+import static lincks.maximilian.App.SPEED;
+
 public class Task1 {
   public static void run() {
     CarWash carWash = new CarWash();
@@ -86,7 +88,7 @@ public class Task1 {
                       });
               try {
                 // Wait 5 min for next
-                Thread.sleep(5 * 1000);
+                Thread.sleep(5 * SPEED);
               } catch (InterruptedException e) {
                 throw new RuntimeException(e);
               }

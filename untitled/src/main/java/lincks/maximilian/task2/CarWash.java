@@ -19,7 +19,7 @@ public class CarWash {
     cleaningStreets.stream()
         .filter(CleaningStreet::isFree)
         .findAny()
-        // if none is free, wait for random one
+        // if none is free, select random one and wait for it
         .orElse(cleaningStreets.get(RandomUtil.fromInterval(0, cleaningStreets.size() - 1)))
         .tryUse(car);
   }

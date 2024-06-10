@@ -4,30 +4,44 @@ import lincks.maximilian.util.RandomUtil;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 
+import java.util.concurrent.locks.Condition;
+import java.util.concurrent.locks.Lock;
+import java.util.concurrent.locks.ReentrantLock;
+
+import static lincks.maximilian.App.SPEED;
+
 @RequiredArgsConstructor
 public class CleaningStreet {
   private final int id;
   @Getter private boolean isFree = true;
 
-  private synchronized void use(Car car) throws InterruptedException {
-    isFree = false;
-    long duration = RandomUtil.fromInterval(5, 12);
-    System.out.printf(
-        "Car %s is using CleaningStreet %s for %s minutes%n", car.getId(), id, duration);
-    Thread.sleep(duration * 1000);
-    isFree = true;
-    notify();
+  private final Lock lock = new ReentrantLock();
+  private final Condition condition = lock.newCondition();
+
+  private void use(Car car) throws InterruptedException {
+    try (ResourceLock ignored = new ResourceLock(lock)) {
+      isFree = false;
+      long duration = RandomUtil.fromInterval(5, 12);
+      System.out.printf(
+              "Car %s is using CleaningStreet %s for %s minutes%n", car.getId(), id, duration);
+      Thread.sleep(duration * SPEED);
+      isFree = true;
+      condition.signal();
+    }
   }
 
-  public synchronized void tryUse(Car car) throws InterruptedException {
-    while (!isFree) {
-      try {
-        wait();
-      } catch (InterruptedException e) {
-        throw new RuntimeException(e);
+  public void tryUse(Car car) throws InterruptedException {
+    try (ResourceLock ignored = new ResourceLock(lock)) {
+      while (!isFree) {
+        try {
+          condition.await();
+        } catch (InterruptedException e) {
+          e.printStackTrace();
+        }
       }
+      use(car);
+      System.out.printf("Car %s is leaving CleaningStreet %s%n", car.getId(), id);
+
     }
-    use(car);
-    System.out.printf("Car %s is leaving CleaningStreet %s%n", car.getId(), id);
   }
 }
