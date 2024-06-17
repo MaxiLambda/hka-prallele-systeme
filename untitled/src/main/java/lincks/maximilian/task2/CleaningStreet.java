@@ -7,6 +7,8 @@ import lombok.RequiredArgsConstructor;
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
+import java.util.function.Function;
+import java.util.stream.Stream;
 
 import static lincks.maximilian.App.SPEED;
 
@@ -32,13 +34,24 @@ public class CleaningStreet {
 
   public void tryUse(Car car) throws InterruptedException {
     try (ResourceLock ignored = new ResourceLock(lock)) {
-      while (!isFree) {
-        try {
-          condition.await();
-        } catch (InterruptedException e) {
-          e.printStackTrace();
-        }
-      }
+      Stream.generate(this::isFree)
+              .map(free -> {
+                if(!free){
+                  try {
+                    condition.await();
+                    return this.isFree();
+                  } catch (InterruptedException e) {
+                    e.printStackTrace();
+                    return false;
+                  }
+                }
+                return true;
+              })
+              .filter(t -> t).findAny();
+
+//      while (!isFree) {
+//
+//      }
       use(car);
       System.out.printf("Car %s is leaving CleaningStreet %s%n", car.getId(), id);
 
